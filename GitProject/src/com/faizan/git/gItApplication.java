@@ -6,6 +6,7 @@ public class gItApplication {
 		// TODO Auto-generated method stub
 		faizan f=new faizan();
 		f.fun();
+		System.out.println("Hello Mohammad Faizan");
 
 	}
 
