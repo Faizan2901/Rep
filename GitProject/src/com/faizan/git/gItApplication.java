@@ -8,6 +8,8 @@ public class gItApplication {
 		f.fun();
 		System.out.println("Hello Mohammad Faizan");
 		System.out.println("Helooooo");
+		System.out.println("Hellooooooooooooo");
+		
 
 	}
 
