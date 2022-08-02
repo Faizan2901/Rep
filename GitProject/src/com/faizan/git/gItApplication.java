@@ -7,6 +7,7 @@ public class gItApplication {
 		faizan f=new faizan();
 		f.fun();
 		System.out.println("Hello Mohammad Faizan");
+		System.out.println("Helooooo");
 
 	}
 
